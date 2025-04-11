@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖱️ AutoClicker Java
 
 Un petit projet Java pour automatiser des clics souris avec une interface graphique simple en Swing.
@@ -28,3 +29,7 @@ Puis l'executer avec
 ```bash
 java autoclicker.AutoClickerGUI
 ```
+=======
+# Autoclicker
+Une petite appli pour simuler des clics à intervalles réguliers, avec une interface graphique simple et fonctionnelle
+>>>>>>> 491c9293f7013dd9876977a0ba79e03880619228
